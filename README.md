@@ -24,7 +24,8 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
-```<html>
+```
+<html>
 <head>
 <title>Slot Timetable</title>
 </head>
@@ -104,7 +105,10 @@ Execute the program using runserver command.
 <td align="center">19CY205</td>
 <td>Principles of Chemistry in Engineering (CHE)</td>
 </tr>
-<tr>```
+<tr>
+</table>
+</body>
+```
 ## OUTPUT
 slot/Screenshot 2025-12-26 170903.png
 
